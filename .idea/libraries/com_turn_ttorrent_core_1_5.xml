@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.turn:ttorrent-core:1.5" type="repository">
+    <properties maven-id="com.turn:ttorrent-core:1.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/turn/ttorrent-core/1.5/ttorrent-core-1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/simpleframework/simple/4.1.21/simple-4.1.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
